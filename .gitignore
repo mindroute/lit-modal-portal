@@ -3,9 +3,9 @@ node_modules
 *.tsbuildinfo
 
 # build output
-/lib/
-/index.*
-/modal-portal.*
-/modal-controller.*
-/portal.*
-/lit-modal-portal-*
+# /lib/
+# /index.*
+# /modal-portal.*
+# /modal-controller.*
+# /portal.*
+# /lit-modal-portal-*
